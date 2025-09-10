@@ -7,8 +7,6 @@ Each section includes setup guides, development standards, and feature documenta
 
 ## 👨‍💼 Client Documentation
 - [System Overview](./documentation-files/client/system-overview.md)
-- [User Guide](./documentation-files/client/user-guide.md)
-- [FAQ & Support](./documentation-files/client/faq.md)
 
 ---
 
@@ -18,6 +16,7 @@ Each section includes setup guides, development standards, and feature documenta
 ---
 
 ## 💻 Frontend (FE) Documentation
+- [Frontend Documentation V1](./documentation-files/backend/Backend-Documentation-V1.md)
 
 ---
 
